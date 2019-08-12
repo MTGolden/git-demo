@@ -2,3 +2,4 @@ test demo git cho nguoi moi bat dau
 tao dang nhap facebook
 tao dang xuat facebook
 cap nhat thong tin phien ban fb v1.1.0
+clone ve local repository
