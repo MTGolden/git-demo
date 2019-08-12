@@ -1,2 +1,3 @@
 test demo git cho nguoi moi bat dau
 tao dang nhap facebook
+tao dang xuat facebook
